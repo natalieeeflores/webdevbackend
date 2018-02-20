@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.035" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2017-11-17T05:43:06" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Validate Article functionality" timestamp="2017-11-17T05:43:06" tests="3" file="/Users/natalieflores/Documents/FALL 2017/comp 431/backend/src/articles.spec.js" failures="0" time="0.963">
+    <testcase name="Validate Article functionality should give me ten or more articles" time="0.256" classname="should give me ten or more articles">
+    </testcase>
+    <testcase name="Validate Article functionality should add two articles with successive article ids, and return the article each time" time="0.12" classname="should add two articles with successive article ids, and return the article each time">
+    </testcase>
+    <testcase name="Validate Article functionality should return an article with a specified id" time="0.587" classname="should return an article with a specified id">
+    </testcase>
+  </testsuite>
+  <testsuite name="Validate Article functionality" timestamp="2017-11-17T05:43:07" tests="1" file="/Users/natalieflores/Documents/FALL 2017/comp 431/backend/src/profile.spec.js" failures="0" time="0.072">
+    <testcase name="Validate Article functionality should update headline" time="0.072" classname="should update headline">
+    </testcase>
+  </testsuite>
+</testsuites>
